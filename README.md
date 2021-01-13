@@ -2,10 +2,11 @@
 
 - *How to use*
 
->2.  Start up the script `./P33K.sh` 
+>1.  Type `chmod +x ./9xe3.sh`
+>2.  Start up the script `./9xe3.sh` 
 >
 >  <img src="pic.png">
 
 - *Disclaimer*
 
-> **This tool is for educational purposes only. I am not responsible for any damage you cause**
+> **Please don't use this tool for any type of malicious use. I don't really care but just a warning**
