@@ -6,7 +6,3 @@
 >2.  Start up the script `./9xe3.sh` 
 >
 >  <img src="pic.png">
-
-- *Disclaimer*
-
-> **Please don't use this tool for any type of malicious use. I don't really care but just a warning**
